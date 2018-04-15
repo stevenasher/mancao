@@ -47,10 +47,10 @@
 <body>
 <h1><strong><i>MY FAMILY<strong><i></h1>
 <ul>
-<li><a href="father.html" target="content"><b>Father Info</b></a></li>
-<li><a href="mother.html" target="content"><b>Mother Info</b></a></li>
-<li><a href="sister.html" target="content"><b>My Sister's Info</b></a></li>
-<li><a href="brother.html" target="content"><b>My Brother's Info</b></a></li>
+<li><a href="father.php" target="content"><b>Father Info</b></a></li>
+<li><a href="mother.php" target="content"><b>Mother Info</b></a></li>
+<li><a href="sister.php" target="content"><b>My Sister's Info</b></a></li>
+<li><a href="brother.php" target="content"><b>My Brother's Info</b></a></li>
 </ul>
 </body>
 </html>
